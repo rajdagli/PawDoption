@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "182635324682",
+    "project_id": "petadoption-c86a4",
+    "storage_bucket": "petadoption-c86a4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:182635324682:android:6b713b0c31f64f3cd006f3",
+        "android_client_info": {
+          "package_name": "com.example.cloud_proj"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "182635324682-hg675de903ofrd37juiq6up0sr7e9amn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1TRoHj4DXwMbPanu0D4-rVjgL3WYWkaw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "182635324682-hg675de903ofrd37juiq6up0sr7e9amn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:182635324682:android:e3657c588fe368ddd006f3",
+        "android_client_info": {
+          "package_name": "com.raj.firebase_starter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "182635324682-hg675de903ofrd37juiq6up0sr7e9amn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1TRoHj4DXwMbPanu0D4-rVjgL3WYWkaw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "182635324682-hg675de903ofrd37juiq6up0sr7e9amn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
